@@ -1,0 +1,16 @@
+PODS:
+  - NZLabel (0.1.0)
+
+DEPENDENCIES:
+  - NZLabel (from `../`)
+
+EXTERNAL SOURCES:
+  NZLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NZLabel: ab242b2ddd327b519b1c329a8766cdce277baecc
+
+PODFILE CHECKSUM: 008e61196437029277c91aca46c54313418af5ff
+
+COCOAPODS: 1.11.3
